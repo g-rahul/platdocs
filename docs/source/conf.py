@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'IndiFlo'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'IndiFlo'
 
 release = '0.1'
 version = '0.1.0'
